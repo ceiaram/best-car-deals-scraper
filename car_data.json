@@ -1,0 +1,129 @@
+{
+  "car_gurus_data": {
+    "make": {
+      "Acura": {
+        "_id": "m4"
+      },
+      "Alfa Romeo": {
+        "_id": "m124"
+      },
+      "Audi": {
+        "_id": "m19"
+      },
+      "BMW": {
+        "_id": "m3"
+      },
+      "Buick": {
+        "_id": "m21"
+      },
+      "Cadillac": {
+        "_id": "m22"
+      },
+      "Chevrolet": {
+        "_id": "m1"
+      },
+      "Chrysler": {
+        "_id": "m23"
+      },
+      "Dodge": {
+        "_id": "m24"
+      },
+      "FIAT": {
+        "_id": "m98"
+      },
+      "Ford": {
+        "_id": "m2"
+      },
+      "Genesis": {
+        "_id": "m203"
+      },
+      "GMC": {
+        "_id": "m26"
+      },
+      "Honda": {
+        "_id": "m6"
+      },
+      "Hyundai": {
+        "_id": "m28"
+      },
+      "INFINITI": {
+        "_id": "m84"
+      },
+      "Jaguar": {
+        "_id": "m31"
+      },
+      "Jeep": {
+        "_id": "m32"
+      },
+      "Kia": {
+        "_id": "m33"
+      },
+      "Land Rover": {
+        "_id": "m35"
+      },
+      "Lexus": {
+        "_id": "m37"
+      },
+      "Lincoln": {
+        "_id": "m38"
+      },
+      "Maserati": {
+        "_id": "m40"
+      },
+      "Mazda": {
+        "_id": "m42"
+      },
+      "Mercedes-Benz": {
+        "_id": "m43"
+      },
+      "MINI": {
+        "_id": "m45"
+      },
+      "Mitsubishi": {
+        "_id": "m46"
+      },
+      "Nissan": {
+        "_id": "m12"
+      },
+      "Porsche": {
+        "_id": "m48"
+      },
+      "RAM": {
+        "_id": "m191"
+      },
+      "Subaru": {
+        "_id": "m53",
+        "model": {
+          "Ascent": "d2650",
+          "BRZ": "d2134",
+          "Crosstrek": "d2387",
+          "Crosstrek Hybrid": "d2388",
+          "Forester": "d374",
+          "Impreza": "d375",
+          "Impreza WRX": "d2233",
+          "Impreza WRX STI": "d376",
+          "Legacy": "d378",
+          "Outback": "d380",
+          "Solterra": "d3219",
+          "WRX": "d2292",
+          "WRX STI": "d2341"
+        }
+      },
+      "Tesla": {
+        "_id": "m112"
+      },
+      "Toyota": {
+        "_id": "m7"
+      },
+      "Volkswagen": {
+        "_id": "m55"
+      },
+      "Volvo": {
+        "_id": "m56"
+      },
+      "Wagoneer": {
+        "_id": "m271"
+      }
+    }
+  }
+}
